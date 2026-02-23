@@ -1,0 +1,7 @@
+prefix=/home/batch_2024/Music-Recommendation-App/music
+includedir=${prefix}/include
+
+Name: DPMSProto
+Description: DPMS extension headers
+Version: 1.2
+Cflags: -I${includedir}
